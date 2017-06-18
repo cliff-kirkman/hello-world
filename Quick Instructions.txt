@@ -1,0 +1,3 @@
+git clone (the URL)
+git status - To check the differents between your branch and the master
+git add (file name) 
