@@ -4,3 +4,6 @@ git add (file name) -- To add files before commiting
 git commit -m "(Your message about this commit)"
 git push -- pushes local files up to git
 git pull -- to pull changes if someone else was working on the same project
+git init -- to initialize a new repository or just reinitialize an existing one
+
+to escape message screen if you forgot to put a message, esc then :wq
