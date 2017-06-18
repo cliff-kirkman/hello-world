@@ -3,3 +3,4 @@ git status - To check the differents between your branch and the master
 git add (file name) -- To add files before commiting
 git commit -m "(Your message about this commit)"
 git push -- pushes local files up to git
+git pull -- to pull changes if someone else was working on the same project
